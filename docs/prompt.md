@@ -34,7 +34,12 @@ nav_exclude: true
 
 4、中文搜索使用 pagefind
 
-请给出：方案是什么？基于现有yml，怎么修改？
+5、git push 推送到 github，git Action 编译可以通过。
+
+6、如何使用 pagefind 做搜索，可以搜索中文、英文，或者中英文混合
+
+- 每页顶部有个搜索
+- 输入要搜索的内容，点击搜索按钮就可以搜索
 
 
 ```bash
